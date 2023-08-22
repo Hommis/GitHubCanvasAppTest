@@ -1,3 +1,6 @@
 Testitiedosto
 
 Testataan commitin ristiriitaisuutta.
+
+Tähän piti saada joku ongelma aikaseks
+
